@@ -33,11 +33,7 @@ Des del main() de l’aplicació, crea un objecte Smartphone i crida als mètode
 
 - Clonar el Repositorio:
 
-git clone DIRECCION DEL REPO
-
-- Navegar al Directorio del Proyecto:
-
-Ejemplo: cd nom-del-repositorio
+git clone https://github.com/Rafadicandia/1.1-Herencia-y-Polimorfismo-Nivel2.git
 
 - Configuración del IDE (Opcional pero útil):
 
