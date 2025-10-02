@@ -1,58 +1,55 @@
+
 <br>
 
-## 📄Descripció - Enunciat de l'exercici
+## 📄Description - Exercise Statement
 
-### Exercici 1
+### Exercise 1
 
-Crea una classe anomenada "Telèfon" amb els atributs marca i model, i el mètode trucar(). Aquest mètode ha de rebre un String amb un número de telèfon. El mètode ha de mostrar per consola un missatge dient que s’està trucant al número rebut per paràmetre.
+Create a class named "Telèfon" (Phone) with the attributes `marca` (brand) and `model`, and the `trucar()` (call) method. This method must receive a String with a phone number. The method must display a message on the console saying that the number received as a parameter is being called.
 
-Crea una interfície anomenada "Camera" amb el mètode fotografiar(), i una altra interfície anomenada Rellotge amb el mètode alarma().
+Create an interface named "Camera" with the method `fotografiar()` (take photo), and another interface named `Rellotge` (Clock) with the method `alarma()` (alarm).
 
-Crea una classe anomenada "Smartphone" que sigui subclasse de "Telèfon" i que a la vegada implementi les interfícies "Camera" i "Rellotge".
+Create a class named "Smartphone" that is a subclass of "Telèfon" (Phone) and also implements the "Camera" and "Rellotge" (Clock) interfaces.
 
-El mètode fotografiar() ha de mostrar per consola: “S’està fent una foto” i el mètode alarma() ha de mostrar: “Està sonant l’alarma”.
+The `fotografiar()` method must display on the console: “S’està fent una foto” (A photo is being taken) and the `alarma()` method must display: “Està sonant l’alarma” (The alarm is ringing).
 
-Des del main() de l’aplicació, crea un objecte Smartphone i crida als mètodes anteriors.
+From the application's `main()`, create a Smartphone object and call the previous methods.
 
-## 💻Tecnologies Utilitzades
+## 💻Technologies Used
 
 **Java**: 24 (OpenJDK)
 
-## 📋Requisits
+## 📋Requirements
 
-- Sistema Operativo: Windows/macOS/Linux.
+- Operating System: Windows/macOS/Linux.
 
-- **Java Development Kit (JDK):** Versió 24.0.1 (o superior). Es recomana utilitzar una distribució d'**OpenJDK**.
+- **Java Development Kit (JDK):** Version 24.0.1 (or higher). It is recommended to use an **OpenJDK** distribution.
 
-- Ejemplo: JDK 21 o superior.
+- Integrated Development Environment (IDE): IntelliJ IDEA.
 
-- Entorno de Desarrollo Integrado (IDE): IntelliJ IDEA.
+## 🛠️Installation
 
+- Clone the Repository:
 
-## 🛠️Instal·lació
-
-- Clonar el Repositorio:
-
+```
 git clone https://github.com/Rafadicandia/1.1-Herencia-y-Polimorfismo-Nivel2.git
+```
 
-- Configuración del IDE:
+- IDE Configuration:
 
-Abrir el fichero como un proyecto de Java.
+Open the file as a Java project.
 
+## ▶️Execution
 
-## ▶️Execució
+- Execute from the IDE
+  - Open the main file (the one containing the `main` method).
 
-- Ejecutar desde el IDE
-    - Abrir el archivo principal (el que contiene el método main).
+  - Right-click and select "Run 'Main'".
 
-    - Hacer clic derecho y seleccionar "Run 'Main'".
+## 🌐Deployment
 
+Instructions for deploying the project in a production environment or on a server.
 
-## 🌐Desplegament
+## 🤝Contributions
 
-Instruccions per al desplegament del projecte en un entorn de producció o servidor.
-
-
-## 🤝Contribucions
-
-### Las contribuciones son bienvenidas. Por favor, reporta cualquier error abriendo un issue o sugiere mejoras mediante un Pull Request claro y conciso.
+### Contributions are welcome. Please report any errors by opening an issue or suggest improvements through a clear and concise Pull Request.

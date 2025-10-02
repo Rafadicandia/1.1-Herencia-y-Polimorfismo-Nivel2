@@ -1,4 +1,4 @@
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         Smartphone smartphone= new Smartphone("Nokia", "1100");
